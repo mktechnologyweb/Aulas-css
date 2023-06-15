@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exemplo de CSS com seletor 
+    de classe</title>
+  <style>
+    .destaque {
+  color: red;
+  font-weight: bold;
+}
+  </style>
+</head>
+<body>
+  <h1 class="destaque">Título 
+    em Destaque</h1>
+  <p>Este é um parágrafo normal.</p>
+  <p class="destaque">Este parágrafo 
+    está em destaque.</p>
+  <p class="destaque">Outro parágrafo 
+    em destaque.</p>
+</body>
+</html>
